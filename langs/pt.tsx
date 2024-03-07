@@ -2397,8 +2397,8 @@ const messages:IMessages = {
   },
   "Show Budget File...": {
     /* Show the current budget file in Finder/Explorer */
-    val: "Show Budget File...",
-    translated: false,
+    val: "Mostrar arquivo do orçamento...",
+    translated: true,
     h: "iMBwVJg17i7WagCWW3Att0OrtczZYyVqAM7PDdo5sXk=",
   },
   "Show Log Files...": {
@@ -2694,13 +2694,13 @@ const messages:IMessages = {
     h: "GtZIXrHILA84HlpKlxi3BErHwR7WIYkQ/e5BE0Fiaxg=",
   },
   "Trial version": {
-    val: "Versão de testes",
+    val: "Versão de teste",
     translated: true,
     h: "/B8oxaBijS+cHJQBdPRkq7IfcHyPStMT5uGKWUeZQuQ=",
   },
   "Try the Amazon transactions page instead of using the reports below.": {
-    val: "Try the Amazon transactions page instead of using the reports below.",
-    translated: false,
+    val: "Experimente a página de transações da Amazon em vez de usar os relatórios abaixo.",
+    translated: true,
     h: "GHctPN+mo6YaBc3phg56gj1DMNCqVfHnjqkKbcNdt/U=",
   },
   "Tuition": {
@@ -2780,7 +2780,7 @@ const messages:IMessages = {
     h: "BPAjsiEkATiwSf9f6kde3yZwSmmyiPDLiZ7Rr+3Zv/A=",
   },
   "Unregistered Version": {
-    val: "Version Não Registrada",
+    val: "Versão não registrada",
     translated: true,
     h: "x9ekMClqI57T6jREU5VJurBCzlD+hBNJ8pHNQ0zMB1U=",
   },
@@ -2855,7 +2855,7 @@ const messages:IMessages = {
     h: "98Qu07eWAHjS80FuHQajrVMMtd0jq5Zq8rRKuDQEZEU=",
   },
   "Update Target Date": {
-    val: "Atualizar Dia Alvo",
+    val: "Atualizar data prevista",
     translated: true,
     h: "SEac1rQopyHALPSWU85qYV3GE0x9i2OGDB+JYnVID8A=",
   },
@@ -2957,8 +2957,8 @@ const messages:IMessages = {
   },
   "Web YNAB Export": {
     /* Label for YNAB export file type */
-    val: "Web YNAB Export",
-    translated: false,
+    val: "Exportação web YNAB",
+    translated: true,
     h: "tW4h/MIfunRbmUN+oxQ8Sa2pKJQgML5XIcQkPzclpEM=",
   },
   "When \"On\" this macro will be run during a normal sync.": {
@@ -3129,26 +3129,26 @@ const messages:IMessages = {
   },
   "account_mapping.account_hash": {
     /* Account cryptographic hash label */
-    val: "Fingerprint",
+    val: "Impressão Digital",
     translated: false,
     h: "knLiHOJx3KZ0xE/Ex3QjyueLNEC/iAp6T3RHzZ3RayA=",
   },
   "account_transaction.cleared": {
     /* Transaction cleared flag label */
-    val: "Cleared",
-    translated: false,
+    val: "Conciliado",
+    translated: true,
     h: "j1SmbPuDDBP04XfOH9NNFCDzXmB9xAzSoVG7RcHcdBg=",
   },
   "account_transaction.fi_id": {
     /* Financial institution assigned transaction ID label */
-    val: "Institution-assigned ID",
-    translated: false,
+    val: "ID atribuído pela instituição",
+    translated: true,
     h: "gFeirPPl/djXfLKwDK8FtD7JPKjC/2e7sHuRIxqkii8=",
   },
   "account_transaction.general_cat": {
     /* General category label */
-    val: "General category",
-    translated: false,
+    val: "Categoria geral",
+    translated: true,
     h: "xEay6AzOg30Omh/FS2qPVa7eCkrUiXxTIclZM+h3BZE=",
   },
   "accounts.name_placeholder": {
@@ -3183,50 +3183,50 @@ const messages:IMessages = {
   },
   "bank_macro.enabled": {
     /* Bank macro enabled flag label */
-    val: "Enabled",
-    translated: false,
+    val: "Ativado",
+    translated: true,
     h: "hHztbKAreElTc7ttNUovJFG0DIq9xfILBM+1aNV8x2Q=",
   },
   "bank_macro.enc_recording": {
     /* Bank macro recording data label */
-    val: "Recording data",
-    translated: false,
+    val: "Gravando dados",
+    translated: true,
     h: "nCMGHm2pOXvkN7v4hXGbN6g6Q9KfnHLC9ToPAUPTNIo=",
   },
   "bank_macro.name": {
     /* Bank macro name label */
-    val: "Name",
-    translated: false,
+    val: "Nome",
+    translated: true,
     h: "bMXfNfAzjiMOnmM+rZmR8I9iyrRaMmSXja7cZ0eGcwU=",
   },
   "bank_macro.uuid": {
     /* Bank macro UUID label */
     val: "UUID",
-    translated: false,
+    translated: true,
     h: "UbH2EWDbIyGX6gVQAsz9xGUQYrsX+er1VM8Fuuxhxrw=",
   },
   "bucket.balance": {
     /* Bucket balance label */
-    val: "Balance",
-    translated: false,
+    val: "Saldo",
+    translated: true,
     h: "azvDWgVPY349dq4q8mbtpDhehRsFKYKNzMk/TcuOvEQ=",
   },
   "bucket.color": {
     /* Bucket color label */
-    val: "Color",
-    translated: false,
+    val: "Cor",
+    translated: true,
     h: "/hiVjO3WJ9JPhG5BDY2SqUELJlWFlhAWkhD3x/c45mU=",
   },
   "bucket.debt_account_id": {
     /* Bucket's related debt account label */
-    val: "Debt account",
-    translated: false,
+    val: "Conta de débito",
+    translated: true,
     h: "VSXRVQC8DbjhKcJjXLieRBksQgQU56PH2njj+P5m/KI=",
   },
   "bucket.deposit": {
     /* Bucket deposit amount label */
     val: "Deposit",
-    translated: false,
+    translated: true,
     h: "m1MGQLRYdNxU9nxvjA8qOlurdztaw7NQI15XBoTWhN8=",
   },
   "bucket.detailslabel": {
@@ -3236,20 +3236,20 @@ const messages:IMessages = {
   },
   "bucket.end_date": {
     /* Bucket goal target date label */
-    val: "Target date",
+    val: "Data prevista",
     translated: false,
     h: "4+CFBiJaLAXPQeIpTMtcn3dB7Kgzsb0U/1WlSaqWgwM=",
   },
   "bucket.goal": {
     /* Bucket goal amount label */
-    val: "Goal",
-    translated: false,
+    val: "Objetivo",
+    translated: true,
     h: "IGWRYx9sqJO1YtI2GyVqdV+i4fFQ+e8XMaiWTNAn/xk=",
   },
   "bucket.group_id": {
     /* Bucket group label */
-    val: "Group",
-    translated: false,
+      val: "Grupo",
+    translated: true,
     h: "sOfjtH37WgstIWC3rRx2AsnvrT3fsQLKx5n8lTeYI0Y=",
   },
   "bucket.kicked": {
@@ -3283,8 +3283,8 @@ const messages:IMessages = {
   },
   "bucket_group.name": {
     /* Bucket group name label */
-    val: "Name",
-    translated: false,
+    val: "Nome",
+    translated: true,
     h: "bMXfNfAzjiMOnmM+rZmR8I9iyrRaMmSXja7cZ0eGcwU=",
   },
   "bucket_group.ranking": {
@@ -3295,14 +3295,14 @@ const messages:IMessages = {
   },
   "bucket_transaction.account_trans_id": {
     /* Bucket transaction's related account transactions ID label */
-    val: "Account transaction",
-    translated: false,
+    val: "Transação da conta",
+    translated: true,
     h: "LyTdIJwB7IZ3hRIJLfTzbNqAiCegb1SR/QSm722WZkc=",
   },
   "bucket_transaction.bucket_id": {
     /* Bucket transaction bucket label */
-    val: "Bucket",
-    translated: false,
+    val: "Balde",
+    translated: true,
     h: "APPSgbsmF5H9B7YIJDaPcEVh4T7ctWU+hxQv/eG1Dg0=",
   },
   "bucket_transaction.linked_trans_id": {
@@ -3442,8 +3442,8 @@ const messages:IMessages = {
   },
   "go-to-next-year": {
     /* Menu label for "Go To... Next Year" */
-    val: "Próximo Ano",
-    translated: false,
+    val: "Ir para o próximo ano",
+    translated: true,
     h: "NfnsOERP+IaYQvH6i+9MJ6KRpbYSapnXXUFm60jUbqo=",
   },
   "go-to-prev-month": {
@@ -3454,8 +3454,8 @@ const messages:IMessages = {
   },
   "go-to-prev-year": {
     /* Menu label for "Go To... Previous Year" */
-    val: "Ano anterior",
-    translated: false,
+    val: "Ir para ano anterior",
+    translated: true,
     h: "ZntiItsGCJfJBxKIXyzi3+NpS8jZXYAK8IXrOl9bfFg=",
   },
   "go-to-this-month": {
@@ -3465,8 +3465,8 @@ const messages:IMessages = {
     h: "pjcOO9o+UFMLsp6ovyVzksVtCLcFsauwEITWoeq//bg=",
   },
   "import-verb": {
-    val: "Import",
-    translated: false,
+    val: "Importar",
+    translated: true,
     h: "F3sijvfYz3oB4iz2rVHjUvNDLQs43MbXDVIr5VFA2/c=",
   },
   "in the bank": {
@@ -3531,7 +3531,7 @@ Você gostaria de comprar uma licença agora?`,
     h: "HwxJ2TVx57Qef6bXYySekL/eoBzvIEFUqBxQdxgcyCs=",
   },
   "noun.debt": {
-    val: "Débto",
+    val: "Débito",
     translated: true,
     h: "y9kslXhW17gMMFZ9Dq8g/tabfINzlmzT+39QNbWiWGA=",
   },
@@ -3582,8 +3582,8 @@ Você gostaria de comprar uma licença agora?`,
   },
   "settings.key": {
     /* Settings name label */
-    val: "Name",
-    translated: false,
+    val: "Nome",
+    translated: true,
     h: "bMXfNfAzjiMOnmM+rZmR8I9iyrRaMmSXja7cZ0eGcwU=",
   },
   "settings.value": {
@@ -3632,7 +3632,7 @@ Você gostaria de comprar uma licença agora?`,
     h: "cWApfoLlcBvoHizIFtrDQq3uwrZIYMXKO1iLMvv8szI=",
   },
   "some day...": {
-    val: "algum dia...",
+    val: "Algum dia...",
     translated: true,
     h: "4K+3SY48UwcktULX4xiGt6J8Q8Hys3JjUR3t62WI6mo=",
   },
